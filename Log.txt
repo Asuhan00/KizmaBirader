@@ -1,0 +1,9 @@
+Mehmet sirasi.
+Oyuncu Rengi : Sari
+Mehmet 1 atti
+Yeni oyun secildi.
+Oyuncu Sayisi : 4
+Oyun Baslatiliyor
+Mehmet sirasi.
+Oyuncu Rengi : Sari
+Mehmet 3 atti
